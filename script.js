@@ -3,10 +3,7 @@ var num=10;
     console.log(num);
     console.log(tyoeof(num));
     num=false;
-    var person={
-        name: "diksha jha";
-        branch: "ece";
-    }
+    
     const sym1=symbol(4)
     console.log(sym1);
     const sym2= symbol(4);
@@ -17,3 +14,22 @@ var num=10;
     else{
         console.log("false");
     }
+    var a=10;
+    var b=20;
+    var linebreak=a+b;
+    console.log(linebreak);
+   
+     var a=10;
+    var b=20;
+    var linebreak=a-b;
+    console.log(linebreak);
+     var a=10;
+    var b=20;
+    var linebreak=a*b;
+    console.log(linebreak);
+ var a=10;
+    var b=20;
+    var linebreak=a/b;
+    console.log(linebreak);
+
+
