@@ -105,3 +105,10 @@ document.write("Exiting switch block!");
 function myFunction(){
     alert("hello world");
 }
+function sayHello(name, age){
+    document.write(name + "is" + age + "years old");
+}
+var add2 = (a,b){
+    console.log(a+b);
+};
+add2(10,20);
