@@ -102,3 +102,6 @@ switch(grade){
 }
 document.write("Exiting switch block!");
 
+function myFunction(){
+    alert("hello world");
+}
