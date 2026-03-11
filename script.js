@@ -31,5 +31,23 @@ var num=10;
     var b=20;
     var linebreak=a/b;
     console.log(linebreak);
+let i;
+for(i=0;i<5;i++)
+{
+    console.logi;
+}
+var count;
+document.write("starting loop"+ "<br/>");
+for(count=0;count<10;count++){
+    document.write("current count:"+count);
+    document.write("<br/>")
+}
+document.write("loop stopped!");
+const person ={
+    fname: "diksha",
+    lname: "jha",
 
-
+}
+for(let x in person){
+    console.log("preson details" + x + ":" + perrson[x])
+}
