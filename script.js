@@ -51,3 +51,54 @@ const person ={
 for(let x in person){
     console.log("preson details" + x + ":" + perrson[x])
 }
+var agae =20;
+if(age>18){
+    document.write("<b>you are eligible to cast the vote</b>")
+}
+let age =20;
+if(age>18){
+    console.log("you are an adult");
+}
+else{
+    console.log("you are a minor");
+}
+var grade="A";
+document.write("Entering switch block<br/>");
+switch(grade){
+    case "A":
+        document.write("Excellent!<br/>");
+        break;  
+    case "B":
+        document.write("Good!<br/>");
+        break;                                                                  
+    case "C":
+        document.write("Passed!<br/>");
+        break;
+    case "D":
+        document.write("Better luck next time!<br/>");
+        break;
+    default:
+        document.write("Invalid grade!<br/>");
+}
+document.write("Exiting switch block!");
+
+var grade="A";
+document.write("Entering switch block<br/>");
+switch(grade){
+    case "A":
+        document.write("Excellent!<br/>");
+        break;  
+    case "B":
+        document.write("Good!<br/>");
+        break;                                                                  
+    case "C":
+        document.write("Passed!<br/>");
+        break;
+    case "D":
+        document.write("Better luck next time!<br/>");
+        break;
+    default:
+        document.write("Invalid grade!<br/>");
+}
+document.write("Exiting switch block!");
+
