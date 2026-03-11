@@ -112,3 +112,11 @@ var add2 = (a,b){
     console.log(a+b);
 };
 add2(10,20);
+var per={
+    name: diksha jha,
+    age: 20,
+    isMarried : false,
+    address : {
+        society : uninav heights
+    }
+};
