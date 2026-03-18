@@ -13,4 +13,7 @@ function onmouseout(){
 function onmousedown(){
     console.log("on mouse down")
 }
+function onmouseup(){
+    console.log("on mouse up")
+}
 
