@@ -16,4 +16,8 @@ function onmousedown(){
 function onmouseup(){
     console.log("on mouse up")
 }
+function onmousemove(){
+    console.log("on mouse move")
+}
+
 
