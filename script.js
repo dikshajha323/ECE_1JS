@@ -120,3 +120,9 @@ var per={
         society : uninav heights
     }
 };
+function calculateResult(){
+let n=document.getElementById("subjects")
+
+
+
+}
